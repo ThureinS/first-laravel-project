@@ -11,7 +11,7 @@ class Job
         return [
             [
                 'id' => 1,
-                'title' => 'Doctor',
+                'title' => 'Doctors',
                 'salary' => '$10000'
             ],
             [
